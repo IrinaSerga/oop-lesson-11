@@ -3,6 +3,7 @@ package com.dmdev.hometask.encapsulation;
 public class MoneyOperation {
 
 
+
     private final int denomination50 = 50;
     private final int denomination20 = 20;
     private final int denomination10 = 10;
