@@ -1,5 +1,6 @@
 package com.dmdev.hometask.encapsulation;
 
+
 public class CashMachine {
      // свойства банкомата; приватны, нельзя переопределить из других классов
      private int banknote10Amount;

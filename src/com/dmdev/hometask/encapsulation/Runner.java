@@ -1,5 +1,6 @@
 package com.dmdev.hometask.encapsulation;
 
+
 /**
  * Задание 1
  * Создать класс, описывающий банкомат.
